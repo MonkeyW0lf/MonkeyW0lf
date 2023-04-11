@@ -55,3 +55,6 @@ class GitHub(Profile):
 <p align="center">
   <img src="https://profile-counter.glitch.me/MonkeyW0lf/count.svg" />
 </p>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
