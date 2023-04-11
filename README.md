@@ -34,7 +34,7 @@ class GitHub(Profile):
 <p align="center">
 <a href="https://github.com/MonkeyW0lf"><img alt="MonkeyW0lf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MonkeyW0lf&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/MonkeyW0lf"><img alt="MonkeyW0lf's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonkeyW0lf&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/MonkeyW0lf"><img alt="MonkeyW0lf's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MonkeyW0lf&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/MonkeyW0lf">
   
 </p>
 
