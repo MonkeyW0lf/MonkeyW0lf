@@ -36,7 +36,6 @@ class GitHub(Profile):
         <img src="https://lanyard.cnrad.dev/api/987099137340235846">
     </a>
 </p>
----
 
 ### <p align="center">📚 &nbsp;My skills</p>
 
