@@ -38,6 +38,11 @@ class GitHub(Profile):
   
 </p>
 
+## <p align="center">⚙️ &nbsp;Discord</p>
+<a href="https://discord.com/users/987099137340235846"  align="center">
+    <img src="https://lanyard.cnrad.dev/api/987099137340235846">
+  </a>
+
 ---
 
 ### <p align="center">📚 &nbsp;My skills</p>
