@@ -29,20 +29,12 @@ class GitHub(Profile):
 
 ---
 
-### <p align="center">⚙️ &nbsp;Statistics</p>
-<br>
-<p align="center">
-<a href="https://github.com/MonkeyW0lf"><img alt="MonkeyW0lf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MonkeyW0lf&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/MonkeyW0lf"><img alt="MonkeyW0lf's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonkeyW0lf&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/MonkeyW0lf">
-  
-</p>
 
-## <p align="center">⚙️ &nbsp;Discord</p>
+### <p align="center">⚙️ &nbsp;Discord</p>
 <a href="https://discord.com/users/987099137340235846"  align="center">
     <img src="https://lanyard.cnrad.dev/api/987099137340235846">
   </a>
-
+<\p>
 ---
 
 ### <p align="center">📚 &nbsp;My skills</p>
