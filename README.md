@@ -1,4 +1,12 @@
-### <p align="center">😃 &nbsp;I am...</p>
+```
+Rien ne se perd, rien ne se crée, tout se transforme.
+```
+```
+Nothing is lost, nothing is created, everything is transformed.
+```
+*Antoine Lavoisier*
+
+---
 
 ```py
 class GitHub(Profile):
@@ -7,7 +15,7 @@ class GitHub(Profile):
         
         self.github: dict = {
             "profile": "https://github.com/MonkeyW0lf/",
-            "website": "https://MonkeyW0lf.github.io/"
+            "website": "None"
         }
 
         self.discord: dict = {
@@ -17,7 +25,7 @@ class GitHub(Profile):
         
         self.me: dict = {
             "name": "Arthur",
-            "age": 14,
+            "age": 16,
             "working_on": {
                 "project": "A discord bot",
                 "name": "monkey.dev"
@@ -28,29 +36,10 @@ class GitHub(Profile):
 ```
 
 ---
-
-
-### <p align="center">⚙️ &nbsp;Discord</p>
 <p align="center">
     <a href="https://discord.com/users/987099137340235846"  align="center">
         <img src="https://lanyard.cnrad.dev/api/987099137340235846">
     </a>
-</p>
-
-### <p align="center">📚 &nbsp;My skills</p>
-
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,html,css,express,py,github,git,c,cs,cpp,vscode,nodejs,blender,discord,bots,dotnet,lua,md,netlify,regex,stackoverflow,twitter,visualstudio,workers,powershell,bash,heroku,linux,instagram,replit,tailwind,figma,cloudflare,&perline=12" />
-    </a>
-</p>
-
----
-
-### <p align="center">👀 &nbsp;Visitors</p>
-<br>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/MonkeyW0lf/count.svg" />
 </p>
 
 <!-- BLOG-POST-LIST:START -->
