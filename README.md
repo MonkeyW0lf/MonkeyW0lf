@@ -20,15 +20,17 @@ class GitHub(Profile):
 
         self.discord: dict = {
             "account": "MonkeyWolf#3281",
-            "server": "https://discord.gg/Pb5hMA4zkB"
+            "server": "Coming soon..."
         }
         
         self.me: dict = {
             "name": "Arthur",
-            "age": 16,
+            "age": "unspecified",
             "working_on": {
                 "project": "A discord bot",
-                "name": "monkey.dev"
+                "name": "monkey.dev",
+                "project 2": "School Schedule of the future",
+                "name": "SaveMyTime"
             }
         }
         
